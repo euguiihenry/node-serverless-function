@@ -1,0 +1,15 @@
+{
+  "name": "vercel-node",
+  "version": "1.0.0",
+  "description": "Node Serverless API using Vercel to Update a JSON File",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["node", "vercel", "vercel-node", "node-serverless", "serverless-function", "update-json", "node-update-json"],
+  "author": "Guilherme Henrique",
+  "license": "ISC",
+  "devDependencies": {
+    "@vercel/node": "^2.13.0"
+  }
+}
